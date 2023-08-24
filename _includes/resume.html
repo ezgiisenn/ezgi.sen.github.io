@@ -29,11 +29,11 @@
 
 <h3 class="section-title">Work Experience</h3>
 <dl class="experience">
-    {% for work in site.data.work %}
+    {% for position in site.data.work %}
         <dt>
-            <p class="work">{{ work.work }}</p>
-            <p class="company">{{ work.company }}</p>
-            <p class="period">{{ work.period }}</p>
+            <p class="title">{{ position.work }}</p>
+            <p class="company">{{ position.company }}</p>
+            <p class="period">{{ position.period }}</p>
         </dt><!--
         --><dd>
             <p>{{ work.description }}</p>
