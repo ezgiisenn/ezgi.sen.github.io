@@ -27,4 +27,18 @@
     {% endfor %}
 </dl>
 
+<h3 class="section-title">Work Experience</h3>
+<dl class="work">
+    {% for work in site.data.work %}
+        <dt>
+            <p class="work">{{ job.title }}</p>
+            <p class="company">{{ job.company }}</p>
+            <p class="period">{{ job.period }}</p>
+        </dt><!--
+        --><dd>
+            <p>{{ work.description }}</p>
+        </dd>
+    {% endfor %}
+</dl>
+
 
