@@ -1,33 +1,34 @@
 - title: Master Thesis
   company: DKFZ, Chromatin Networks, Prof. Karsten Rippe
   description: "Investigating the molecular patterns in the bone marrow microenvironment in multiple myeloma through the course of therapy response:  <br> 
-  - Integrated longitudinal CITE-seq samples retrieved from healthy donors, baseline and treated multiple myeloma samples to create a large-scale multiple myeloma tumor microenvironment atlas <br> 
-  -  <br> 
-  -  <br> 
+  - Explored a large-scale CITE-seq dataset of the tumor microenvironment in multiple myeloma using both R/Seurat and python/scanpy <br> 
   "
   period: July 2023 - present
 
 - title: Graduate Internship
   company: DKFZ, Chromatin Networks, Prof. Karsten Rippe
   description: "Unraveling transcriptional bursting kinetics of human umbilical vein endothelial cells using scRNA-seq <br> 
-    - Processed plate-based scRNA-seq data using nf-core/rnaseq pipeline on Nextflow  on a PBS/Torque based high performance computer cluster<br>
-    - Applied Seurat for processing on both plate-based and droplet based scRNA-seq data 
-    "
+  - Worked with the analysis of both droplet based and plate-based scRNA-seq datasets in R/Seurat  "
   period: February 2023 - May 2023
 
 - title: Graduate Internship
   company: DKFZ, Cancer Epigenomics, Prof. Christoph Plass, Dr. Maria Llamazares-Prada  & Dr. Mei-Ju May Chen
-  description: "Investigating transcriptomic heterogeneity and cell of origin in lung adenocarcinoma <br>
-    - Developed a workflow for integrating scRNA-seq samples from different donors and regions in a lung atlas study using scanpy environment in python on an LSF based high performance computer cluster 
-    - Estimated RNA-velocity and performed directed single cell fate mapping to dissect cell of origin in lung adenocarcinoma 
+  description: "Investigating transcriptomic heterogeneity and cell of origin in lung adenocarcinoma by studying RNA-velocity snd directed single cell fate mapping <br>
+    - Developed a workflow in python/scanpy to integrate droplet-based scRNA-seq data on an LSF based high performance computing cluster 
     "
   period: November 2022 - January 2023 
   
 - title: Graduate Internship
   company: DKFZ, Molecular Genome Analysis, Dr. Cindy Körner & Dr. Birgitta Michels
-  description: "Investigated the diagnostic value of the differential miRNA arm expressions in breast cancer <br>
-    - Created machine learning models in R to predict tumor/normal status of patients via using miRNA arm expressions across TCGA datasetsn on an LSF based high performance computing cluster 
-    - Performed COX Regression Analysis  to predict the impact of miRNA arm expressions in survival 
+  description: "Investigating the diagnostic value of the differential miRNA arm expressions in breast cancer <br>
+    - Created machine learning models in R using TCGA datasets
+    - Performed multi-variate COX Regression Analysis
     "
   period: August 2022 - October 2022 
+
+  - title: Bachelor Thesis
+  company: Bilkent University, Assoc. Prof. Özlen Konu
+  description: "Investigating the transcriptional mechanisms behind the resistance to aromatase inhibitors in breast cancer
+    "
+  period: January 2021 - June 2021
   
