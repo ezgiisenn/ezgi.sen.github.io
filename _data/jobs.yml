@@ -22,7 +22,7 @@
 - title: Graduate Internship
   company: DKFZ, Molecular Genome Analysis Division, Dr. Cindy Körner & Dr. Birgitta Michels
   description: "<b>Investigating the diagnostic value of the differential miRNA arm expressions in breast cancer:</b> <br>
-    - Created machine learning models in R using TCGA datasets
+    - Created machine learning models in R using TCGA datasets <br>
     - Performed multi-variate COX Regression Analysis
     "
   period: August 2022 - October 2022 
