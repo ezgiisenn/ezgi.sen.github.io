@@ -1,7 +1,33 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- title: Master Thesis
+  company: DKFZ, Chromatin Networks, Prof. Karsten Rippe
+  description: "Investigating the molecular patterns in the bone marrow microenvironment in multiple myeloma through the course of therapy response:  <br> 
+  - Integrated longitudinal CITE-seq samples retrieved from healthy donors, baseline and treated multiple myeloma samples to create a large-scale multiple myeloma tumor microenvironment atlas <br> 
+  -  <br> 
+  -  <br> 
+  "
+  period: July 2023 - present
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- title: Graduate Internship
+  company: DKFZ, Chromatin Networks, Prof. Karsten Rippe
+  description: "Unraveling transcriptional bursting kinetics of human umbilical vein endothelial cells using scRNA-seq <br> 
+    - Processed plate-based scRNA-seq data using nf-core/rnaseq pipeline on Nextflow  on a PBS/Torque based high performance computer cluster<br>
+    - Applied Seurat for processing on both plate-based and droplet based scRNA-seq data 
+    "
+  period: February 2023 - May 2023
+
+- title: Graduate Internship
+  company: DKFZ, Cancer Epigenomics, Prof. Christoph Plass, Dr. Maria Llamazares-Prada  & Dr. Mei-Ju May Chen
+  description: "Investigating transcriptomic heterogeneity and cell of origin in lung adenocarcinoma <br>
+    - Developed a workflow for integrating scRNA-seq samples from different donors and regions in a lung atlas study using scanpy environment in python on an LSF based high performance computer cluster 
+    - Estimated RNA-velocity and performed directed single cell fate mapping to dissect cell of origin in lung adenocarcinoma 
+    "
+  period: November 2022 - January 2023 
+  
+- title: Graduate Internship
+  company: DKFZ, Molecular Genome Analysis, Dr. Cindy Körner & Dr. Birgitta Michels
+  description: "Investigated the diagnostic value of the differential miRNA arm expressions in breast cancer <br>
+    - Created machine learning models in R to predict tumor/normal status of patients via using miRNA arm expressions across TCGA datasetsn on an LSF based high performance computing cluster 
+    - Performed COX Regression Analysis  to predict the impact of miRNA arm expressions in survival 
+    "
+  period: August 2022 - October 2022 
+  
