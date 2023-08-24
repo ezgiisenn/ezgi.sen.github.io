@@ -11,6 +11,11 @@ dt, dd {
     margin-bottom: $spacer;
 }
 
+dd {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 @media(min-width: 640px) {
     dt, dd {
         margin-bottom: 60px;
