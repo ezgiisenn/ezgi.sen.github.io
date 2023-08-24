@@ -31,9 +31,9 @@
 <dl class="work">
     {% for work in site.data.work %}
         <dt>
-            <p class="work">{{ job.position }}</p>
-            <p class="company">{{ job.company }}</p>
-            <p class="period">{{ job.period }}</p>
+            <p class="work">{{ work.work }}</p>
+            <p class="company">{{ work.company }}</p>
+            <p class="period">{{ work.period }}</p>
         </dt><!--
         --><dd>
             <p>{{ work.description }}</p>
