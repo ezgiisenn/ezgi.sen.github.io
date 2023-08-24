@@ -18,7 +18,7 @@
     {% for job in site.data.jobs %}
         <dt>
             <p class="title">{{ job.title }}</p>
-            <p class="company">{{ job.place }}</p>
+            <p class="company">{{ job.company }}</p>
             <p class="period">{{ job.period }}</p>
         </dt><!--
         --><dd>
@@ -32,7 +32,7 @@
     {% for position in site.data.work %}
         <dt>
             <p class="title">{{ position.work }}</p>
-            <p class="company">{{ position.company }}</p>
+            <p class="company">{{ position.placey }}</p>
             <p class="period">{{ position.period }}</p>
         </dt><!--
         --><dd>
