@@ -1,29 +1,25 @@
 - qualification: MSc in Molecular Biosciences
   school: Ruprecht-Karls University of Heidelberg
-  description: |
-    ```html
-    <b>Expected graduation date:</b> January 2024 <br>
-    <b>Grade:</b> 1.2 in German system <br>
-    <b>Key Courses Covered:</b> Molecular Mechanisms of Cancer, Tumor Immunology and Tumor Virology <br>
-    <b>Elective lab practicals:</b> HP-F9 Cancer Genomics & Proteomics,  HP-F11 Tumor Heterogeneity and Proteomics
-    ```
+  description: 
+    "<b>Expected graduation date:</b> January 2024" <br>
+    "<b>Grade:</b> 1.2 in German system" <br>
+    "<b>Key Courses Covered:</b> Molecular Mechanisms of Cancer, Tumor Immunology and Tumor Virology" <br>
+    "<b>Elective lab practicals:</b> HP-F9 Cancer Genomics & Proteomics,  HP-F11 Tumor Heterogeneity and Proteomics"
+    
   period: 2021-ongoing
 
 - qualification: BSc in Molecular Biology & Genetics
   school: Bilkent University, Ankara, Turkey
-  description: |
-    ```html
-    Graduated with <em>Summa Cum Laude</em> distinction <br>
-    <b>Grade:</b> 3.79/4.00 in American system <br>
-    Awarded as the Valedictorian of the Science Faculty 2021 <br>
-    <b>Key Courses Covered:</b> Molecular Genetics, Genomics, Bioinformatics, Statistical Methodology, Introduction to Programming in Python, Introduction to Human Genetics, Genetics and Biology of Cancer
-    ```
+  description: 
+    "Graduated with <em>Summa Cum Laude</em> distinction" <br>
+    "<b>Grade:</b> 3.79/4.00 in American system" <br>
+    "Awarded as the Valedictorian of the Science Faculty 2021" <br>
+    "<b>Key Courses Covered:</b> Molecular Genetics, Genomics, Bioinformatics, Statistical Methodology, Introduction to Programming in Python, Introduction to Human Genetics, Genetics and Biology of Cancer"
   period: 2017-2021
 
 - qualification: Erasmus Exchange Semester in BSc Biology
   school: Radboud University, Nijmegen, Netherlands
+  description:
+    "<b>Key Courses Covered:</b> Comparative Genomics, Cell Biophysics, Cell Biology"
   period: 2019-2020 Spring Semester
-  description: |
-    ```html
-    <b>Key Courses Covered:</b> Comparative Genomics, Cell Biophysics, Cell Biology
-    ```
+
