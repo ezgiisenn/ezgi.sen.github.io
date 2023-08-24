@@ -1,7 +1,7 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
+title: Ezgi Sen Resume
 email: ezgi.sen@dkfz-heidelberg.de
 description: Cancer Biology M.Sc. student @DKFZ
 baseurl: ""
@@ -9,7 +9,7 @@ url: ""
 name: Ezgi Sen
 
 location: Heidelberg, Germany
-languages: R, Python and Shell
+languages:
 twitter_username: ezgiisenn98
 github_username:  ezgiisenn
 email_address: ezgi.sen@dkfz-heidelberg.de
