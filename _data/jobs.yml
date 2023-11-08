@@ -1,13 +1,13 @@
 - title: Master Thesis
   company: DKFZ, Chromatin Networks Division
-  description: Investigating the molecular patterns in the bone marrow microenvironment in multiple myeloma through the course of therapy response  
-  #- Explored a large-scale CITE-seq dataset of the tumor microenvironment in multiple myeloma using both R/Seurat and python/scanpy
+  description: Evaluated and compared computational techniques for processing and integrating a large-scale, clinical, and longitudinal CITE-seq dataset, with the aim of producing a comprehensive multi-omic atlas of the multiple myeloma tumor microenvironment 
+  - Generated a Nextflow based pipeline for the processing of the dataset
   period: July 2023 - present
 
 - title: Graduate Internship
   company: DKFZ, Chromatin Networks Division
-  description: Unraveling transcriptional bursting kinetics of human umbilical vein endothelial cells using scRNA-seq 
-  #- Worked with the analysis of both droplet based and plate-based scRNA-seq datasets in R/Seurat
+  description: Explored transcriptional bursting kinetics of human umbilical vein endothelial cells using scRNA-seq 
+  Compared the performance of bursting kinetics inference models on both droplet-based and plate-based scRNA-seq datasets, used nfcore/rnaseq to align plate-based scRNA-seq reads
   period: February 2023 - May 2023
 
 - title: Graduate Internship
@@ -18,13 +18,13 @@
   
 - title: Graduate Internship
   company: DKFZ, Molecular Genome Analysis Division
-  description: Investigating the diagnostic value of the differential miRNA arm expressions in breast cancer
+  description: Inspected the tumor-predictive and prognostic potential of the differential miRNA arm expressions in breast cancer
   #- Created machine learning models in R using TCGA datasets <br>
   #- Performed multi-variate COX Regression Analysis
   period: August 2022 - October 2022 
 
 - title: Bachelor Thesis
   company: Bilkent University, Konu Lab
-  description: Investigating the transcriptional mechanisms behind the resistance to aromatase inhibitors in breast cancer
+  description: Investigated the transcriptional mechanisms behind the resistance to aromatase inhibitors in breast cancer by using bulk-RNA sequencing data
   period: January 2021 - June 2021
   
