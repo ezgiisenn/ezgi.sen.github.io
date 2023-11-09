@@ -1,18 +1,16 @@
 - title: Master Thesis
   company: DKFZ, Chromatin Networks Division
-  description: Evaluated and compared computational techniques for processing and integrating a large-scale, clinical, and longitudinal CITE-seq dataset, with the aim of producing a comprehensive multi-omic atlas of the multiple myeloma tumor microenvironment 
-  Generated a Nextflow based pipeline for the processing of the dataset
+  description: Evaluated and compared computational techniques for processing and integrating a large-scale, clinical, and longitudinal CITE-seq dataset, with the aim of producing a comprehensive multi-omic atlas of the multiple myeloma tumor microenvironment. Generated a Nextflow based pipeline for the processing of the dataset
   period: July 2023 - present
 
 - title: Graduate Internship
   company: DKFZ, Chromatin Networks Division
-  description: Explored transcriptional bursting kinetics of human umbilical vein endothelial cells using scRNA-seq 
-  Compared the performance of bursting kinetics inference models on both droplet-based and plate-based scRNA-seq datasets, used nfcore/rnaseq to align plate-based scRNA-seq reads
+  description: Explored transcriptional bursting kinetics of human umbilical vein endothelial cells using scRNA-seq. Compared the performance of bursting kinetics inference models on both droplet-based and plate-based scRNA-seq datasets, used nfcore/rnaseq to align plate-based scRNA-seq reads
   period: February 2023 - May 2023
 
 - title: Graduate Internship
   company: DKFZ, Cancer Epigenomics Division
-  description: Investigating transcriptomic heterogeneity and cell of origin in lung adenocarcinoma by studying RNA-velocity snd directed single cell fate mapping 
+  description: Investigated cell of origin in lung adenocarcinoma by studying RNA-velocity and directed single cell fate mapping 
   #- Developed a workflow in python/scanpy to integrate droplet-based scRNA-seq data on an LSF based high performance computing cluster
   period: November 2022 - January 2023 
   
