@@ -1,6 +1,6 @@
 - title: Master Thesis
   company: DKFZ, Chromatin Networks Division
-  description: Evaluated and compared computational techniques for processing and integrating a large-scale, clinical, and longitudinal CITE-seq dataset, with the aim of producing a comprehensive multi-omic atlas of the multiple myeloma tumor microenvironment. Generated a Nextflow based pipeline for the processing of the dataset
+  description: Evaluated and compared computational techniques for processing and integrating a large-scale, clinical, and longitudinal CITE-seq dataset of the multiple myeloma tumor microenvironment. Generated a Nextflow based pipeline for quality control of the dataset
   period: July 2023 - present
 
 - title: Graduate Internship
